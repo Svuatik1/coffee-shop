@@ -1,0 +1,135 @@
+.header {
+  width: 1439px;
+  height: 600px;
+  background-image: url("/src/img/desk-791178_1920\ .jpg");
+  background-repeat: no-repeat;
+}
+
+.navigation {
+  padding-top: 52px;
+  list-style-type: none;
+  position: absolute;
+  left: 179px;
+}
+
+.navigation a {
+  position: relative;
+  padding-right: 35px;
+  width: 63px;
+  height: 18px;
+  text-decoration: none;
+  font-family: "Merienda";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 17px;
+  color: #ffffff;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.logo {
+  top: 31px;
+  right: 340px;
+  position: absolute;
+  background-image: url("../../img/Group.jpg");
+}
+
+.logo1 {
+  top: 31px;
+  right: 340px;
+  position: absolute;
+  background-image: url("../../img/Vector.png");
+  top: 275px;
+  right: 704px;
+}
+
+h1 {
+  left: 384px;
+  top: 181px;
+  position: absolute;
+  width: 670px;
+  height: 44px;
+  font-family: "Merienda";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 58px;
+  color: #ffffff;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+h2 {
+  position: absolute;
+  width: 530px;
+  height: 27px;
+  font-family: "Merienda";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 35px;
+  color: #ffffff;
+  left: 454px;
+  top: 309px;
+}
+h2 {
+  position: absolute;
+  width: 530px;
+  height: 27px;
+  font-family: "Merienda";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 35px;
+  color: #ffffff;
+  left: 454px;
+  top: 309px;
+}
+
+h3 {
+  position: absolute;
+  width: 530px;
+  height: 27px;
+  font-family: "Merienda";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 35px;
+  color: #ffffff;
+  left: 454px;
+  top: 356px;
+}
+
+.more-button {
+  top: 430px;
+  right: 660px;
+  color: #ffffff;
+  background: none;
+  box-sizing: border-box;
+  position: absolute;
+  width: 120px;
+  height: 30px;
+  border: 1px solid #ffffff;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  border-radius: 5px;
+  font-family: "Merienda";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.hr-first {
+  height: 0px;
+  width: 60px;
+  position: absolute;
+  top: 280px;
+  left: 625px;
+}
+
+.hr-second {
+  height: 0px;
+  width: 60px;
+  position: absolute;
+  top: 280px;
+  left: 750px;
+}

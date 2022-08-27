@@ -1,0 +1,102 @@
+.our_best_container {
+  position: absolute;
+  width: 1440px;
+  height: 789.68px;
+  top: 1160px;
+  background-image: url("../../img/wrapper-papper.jpg");
+  background-repeat: no-repeat;
+}
+
+.our_best {
+  left: 669px;
+  top: 45px;
+  position: absolute;
+  width: 103px;
+  height: 26px;
+  font-family: "Merienda";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 35px;
+  text-align: center;
+  color: #000000;
+}
+
+.best_list {
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 150px;
+}
+
+.rectangle {
+  background-image: url(../../img/Rectangle.png);
+  width: 220px;
+  height: 240px;
+}
+
+.foto1 {
+  margin-top: 22px;
+}
+
+.foto2 {
+  margin-top: 22px;
+}
+
+.foto3 {
+  margin-top: 37px;
+}
+
+.text_under_item {
+  font-family: "Merienda";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  text-align: center;
+  color: #000000;
+}
+
+.price_under_item1 {
+  top: 335px;
+  left: 340px;
+  position: absolute;
+  width: 47px;
+  height: 21px;
+  font-family: "Merienda";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 20px;
+  text-align: center;
+  color: #000000;
+}
+
+.price_under_item2 {
+  top: 335px;
+  left: 755px;
+  position: absolute;
+  width: 47px;
+  height: 21px;
+  font-family: "Merienda";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 20px;
+  text-align: center;
+  color: #000000;
+}
+
+.price_under_item3 {
+  top: 335px;
+  left: 1170px;
+  position: absolute;
+  width: 47px;
+  height: 21px;
+  font-family: "Merienda";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 20px;
+  text-align: center;
+  color: #000000;
+}

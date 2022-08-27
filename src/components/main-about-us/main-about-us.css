@@ -1,0 +1,57 @@
+.about_us_conteiner {
+  top: 640px;
+  position: absolute;
+  width: 1440px;
+  height: 520px;
+  background: #ffffff;
+}
+
+p.h1_about_us {
+  top: 80px;
+  left: 665px;
+  position: absolute;
+  width: 108px;
+  height: 26px;
+  font-family: "Merienda";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 35px;
+  color: #000000;
+}
+
+.logo1 {
+  top: 140px;
+}
+
+.hr-first {
+  height: 0px;
+  width: 60px;
+  position: absolute;
+  top: 150px;
+  left: 625px;
+}
+
+.hr-second {
+  height: 0px;
+  width: 60px;
+  position: absolute;
+  top: 150px;
+  left: 750px;
+}
+
+.central_text {
+  text-align: justify;
+  top: 196px;
+  left: 425px;
+  position: absolute;
+  width: 589px;
+  height: 223px;
+  font-family: "Merienda";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  text-align: center;
+  color: #000000;
+}
