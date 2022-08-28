@@ -1,12 +1,12 @@
-import "./main-footer.css";
+import "../main-footer/main-footer.css";
 import logo from "../../img/Vector (2).png";
 import logoOne from "../../img/VectorAboutUs.png";
 
 import { Link } from "react-router-dom";
 
-const MainFooter = () => {
+const OurCoffeeFooter = () => {
   return (
-    <div className="main_footer">
+    <div className="main_footer" style={{ top: "1490px" }}>
       <nav className="navigation_footer">
         <img
           style={{ background: "none" }}
@@ -25,4 +25,4 @@ const MainFooter = () => {
   );
 };
 
-export default MainFooter;
+export default OurCoffeeFooter;

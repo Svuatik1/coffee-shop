@@ -5,9 +5,9 @@ const MainAboutUs = () => {
   return (
     <div className="about_us_conteiner">
       <p className="h1_about_us">About Us</p>
-      <hr className="hr-first"></hr>
-      <img className="logo1" alt="logo1" src={logo1}></img>
-      <hr className="hr-second"></hr>
+      <hr className="hr-first-main"></hr>
+      <img className="logo1-main" alt="logo1" src={logo1}></img>
+      <hr className="hr-second-main"></hr>
       <p className="central_text">
         Extremity sweetness difficult behaviour he of. On disposal of as
         landlord horrible. Afraid at highly months do things on at. Situation

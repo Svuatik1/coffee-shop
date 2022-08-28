@@ -34,7 +34,7 @@
   background-image: url("../../img/Group.jpg");
 }
 
-.logo1 {
+.logo1-main-header {
   top: 31px;
   right: 340px;
   position: absolute;
@@ -118,7 +118,7 @@ h3 {
   line-height: 20px;
 }
 
-.hr-first {
+.hr-first-main-header {
   height: 0px;
   width: 60px;
   position: absolute;
@@ -126,7 +126,7 @@ h3 {
   left: 625px;
 }
 
-.hr-second {
+.hr-second-main-header {
   height: 0px;
   width: 60px;
   position: absolute;

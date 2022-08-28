@@ -1,0 +1,11 @@
+.our_coffee_header {
+  position: absolute;
+  width: 1440px;
+  height: 847px;
+  background-image: url("../../img/coffee-shop-1209863_1920.jpg");
+  background-repeat: no-repeat;
+}
+
+.h1_our_coffe {
+  top: 105px;
+}

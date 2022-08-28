@@ -20,11 +20,13 @@ p.h1_about_us {
   color: #000000;
 }
 
-.logo1 {
-  top: 140px;
+.logo1-main {
+  top: 144px;
+  left: 704px;
+  position: absolute;
 }
 
-.hr-first {
+.hr-first-main {
   height: 0px;
   width: 60px;
   position: absolute;
@@ -32,7 +34,7 @@ p.h1_about_us {
   left: 625px;
 }
 
-.hr-second {
+.hr-second-main {
   height: 0px;
   width: 60px;
   position: absolute;

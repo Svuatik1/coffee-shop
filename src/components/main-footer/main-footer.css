@@ -1,9 +1,9 @@
 .main_footer {
-  position: absolute;
+  position: relative;
   width: 1440px;
   height: 150px;
   background: #ffffff;
-  top: 1655px;
+  top: 1055px;
 }
 
 .navigation_footer a {
@@ -46,4 +46,8 @@
   position: absolute;
   top: 110px;
   left: 730px;
+}
+
+.our-coffee-footer {
+  top: 1700px;
 }
