@@ -54,6 +54,7 @@
 }
 
 .button_filter {
+  cursor: pointer;
   position: absolute;
   top: 782px;
   left: 841px;
@@ -73,6 +74,14 @@
   border-radius: 3px;
 }
 
+.button_filter:hover {
+  box-shadow: 4px 4px 20px rgb(0 0 0);
+}
+
+.active {
+  box-shadow: 4px 4px 20px rgb(0 0 0);
+}
+
 .kenya {
   left: 921px;
 }
@@ -84,12 +93,8 @@
 .best_list_filter {
   display: flex;
   justify-content: space-evenly;
-  padding-top: 150px;
-}
-
-.best_list_filter {
   position: absolute;
-  top: 720px;
+  top: 870px;
   left: 319px;
   width: 850px;
   display: flex;
@@ -99,6 +104,7 @@
 }
 
 .wrapper {
+  cursor: pointer;
   margin-bottom: 50px;
   width: 220px;
   height: 260px;
@@ -108,10 +114,13 @@
   background: #ffffff;
   border-radius: 8px;
 }
+.wrapper:hover {
+  box-shadow: 4px 4px 20px rgb(0 0 0);
+}
 
 .price_under_item {
-  padding-left: 152px;
-  width: 38px;
+  text-align: right;
+  width: 90%;
   height: 15px;
   font-family: "Merienda";
   font-style: normal;
@@ -121,8 +130,8 @@
 }
 
 .country {
-  padding-left: 157px;
-  width: 38px;
+  text-align: right;
+  width: 90%;
   height: 15px;
   font-family: "Merienda";
   font-style: normal;

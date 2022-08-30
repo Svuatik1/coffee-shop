@@ -16,7 +16,7 @@ const MainFooter = () => {
         ></img>
         <Link to="/">Coffee house</Link>
         <Link to="/our_coffee">Our coffee</Link>
-        <a href="#">For your pleasure</a>
+        <Link to="/for_your_plesure">For your pleasure</Link>
       </nav>
       <hr className="hr-footer-first"></hr>
       <img className="footer_logo" alt="footer-logo" src={logoOne}></img>

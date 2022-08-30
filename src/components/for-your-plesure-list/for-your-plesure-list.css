@@ -1,0 +1,13 @@
+.best_list_filter_plesure {
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 150px;
+  position: absolute;
+  top: 650px;
+  left: 319px;
+  width: 850px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;
+}

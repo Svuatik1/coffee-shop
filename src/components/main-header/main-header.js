@@ -16,7 +16,7 @@ const MainHeader = () => {
         ></img>
         <Link to="/">Coffee house</Link>
         <Link to="/our_coffee">Our coffee</Link>
-        <a href="#">For your pleasure</a>
+        <Link to="/for_your_plesure">For your pleasure</Link>
       </nav>
       <h1>Everything You Love About Coffee</h1>
       <hr className="hr-first-main-header"></hr>
@@ -24,7 +24,9 @@ const MainHeader = () => {
       <hr className="hr-second-main-header"></hr>
       <h2>We makes every day full of energy and taste</h2>
       <h3>Want to try our beans?</h3>
-      <button className="more-button">More</button>
+      <Link to="/our_coffee">
+        <button className="more-button">More</button>
+      </Link>
       <div className="main_img"></div>
     </div>
   );
